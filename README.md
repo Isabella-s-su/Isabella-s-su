@@ -1,5 +1,7 @@
 ## Hi there 👋
+Student
 
+Pronouns: she/her
 <!--
 **Isabella-s-su/Isabella-s-su** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
